@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: estedad;
+}
+
+
+:root{
+    --bg-color: #f0f4f8;
+  --text-color: #000000;
+  --sidebar-bg: #486581;
+  --widget-bg: #bcccdc;
+  --topbar-bg: #e5e7eb;
+  --button-bg: #bcccdc;
+  --button-hover: #1e3a8a;
+
+
+dark-mode {
+  --bg-color: #111827;
+  --text-color: #ffffff;
+  --sidebar-bg: #1f2937;
+  --widget-bg: #829ab1;
+  --topbar-bg: #1f2937;
+  --button-bg: #829ab1;
+  --button-hover: #1e3a8a
+
+}
+}

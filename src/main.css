@@ -1,0 +1,23 @@
+@import url(../public/css/root.css);
+@import url(../public/css/mediaquery/header/header.css);
+@import url(../public/css/mediaquery/hero/hero.css);;
+
+@font-face {
+    font-family: estedad;
+    /* src: url(../fonts/Estedad-Bold.ttf); */
+    /* src: url(../fonts/Estedad-Black.ttf);
+    src: url(../fonts/Estedad-SemiBold.ttf);
+    src: url(../fonts/Estedad-ExtraBold.ttf);
+    src: url(../fonts/Estedad-ExtraLight.ttf);
+    src: url(../fonts/Estedad-Light.ttf);
+    src: url(../fonts/Estedad-Medium.ttf); */
+    src: url(../fonts/Estedad-Regular.ttf);
+    /* src: url(../fonts/Estedad-Thin.ttf); */
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: estedad;
+    src: url(../fonts/Estedad-Bold.ttf);
+    font-weight: 200;
+}
