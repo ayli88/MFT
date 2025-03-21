@@ -1,7 +1,7 @@
 @import url(../public/css/root.css);
 @import url(../public/css/mediaquery/header/header.css);
-@import url(../public/css/mediaquery/hero/hero.css);;
-@import url(../public/css/mediaquery/footer/footer.css);;
+@import url(../public/css/mediaquery/hero/hero.css);
+@import url(../public/css/mediaquery/footer/footer.css);
 
 @font-face {
     font-family: estedad;
