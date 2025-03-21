@@ -4,6 +4,9 @@
     font-family: estedad;
 }
 
+.container{
+  background-color: var(--bg-color);
+}
 
 :root{
     --bg-color: #f0f4f8;
